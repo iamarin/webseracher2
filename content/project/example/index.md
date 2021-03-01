@@ -57,6 +57,6 @@ Para evaluar el impacto económico sobre el bienestar se utilizó el PIB per cá
 Modelo
 
 $$
-y_{it}=\beta_{it}+_beta{it}T_{it}*fdi_{it}+'Z_{it}+\gamma_{i}+\epsilon_{it}
+y_{it}=\beta_{it}+\beta{it}T_{it}*fdi_{it}+'Z_{it}+\gamma_{i}+\epsilon_{it}
 $$
 
