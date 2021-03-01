@@ -26,12 +26,20 @@ feature:
   name: Statistics
 - description: 80%
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description: 80%
   icon: docker
-  icon_pack: fas
+  icon_pack: fab
   name: Docker
+- description: 80%
+  icon: linux
+  icon_pack: fab
+  name: Linux/Ubuntu
+- description: 80%
+  icon: git
+  icon_pack: fab
+  name: Git
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
