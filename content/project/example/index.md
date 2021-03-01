@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
 links:
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Por mucho tiempo la discusión pública sobre la magnitud y el sentido del impacto que los recursos financieros del exterior ejercen sobre el bienestar individual. Este debate no es trivial, ya que existen incentivos sociales para suponer que estos recursos son indispensables para la formación de capital público, humano e industrial. Dicho sea de paso, se ha enfatizado sobre la necesidad de las economías receptoras para la convergencia económica.
@@ -46,10 +46,15 @@ En este sentido, es de esperarse que además de incrementar los niveles del indi
 
 Datos y variables
 
-	Datos
+Datos
 
 Nuestra base de datos contiene información de impacto comercial relacionado con las economías de América Latina entre 1960 y 2019. Estos datos fueron descargados por medio de la interfaz de programación o API que ha puesto en disponibilidad el Banco Mundial. El algoritmo de consulta fue elaborado en software R versión 4.0.2 (2020-06-22) y el IDE RStudio, además se utilizaron las librerías wbstats() y tidyverse(), disponibles para ambiente R, para la consulta de los datos y la manipulación de las bases consultadas, respectivamente
 
-	Variables
+Variables
 
 Para evaluar el impacto económico sobre el bienestar se utilizó el PIB per cápita, construido a partir del PIB reportado por el Banco Mundial así como los datos de población incluidos en dicha fuente. Adicionalmente el vector de variables comerciales,Z , considera a la apertura comercial como proporción del PIB, la inversión extranjera directa como proporción del PIB y la proporción de las manufacturas como proporción de las exportaciones. Además, se incluye un vector de variables macroeconómicas,X, como controles de decisión de política económica.
+
+Modelo
+
+$y_{it}=\beta_{it}+_beta{it}T_{it}*fdi_{it}+'Z_{it}+\gamma_{i}+\epsilon_{it}$
+
