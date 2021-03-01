@@ -2,7 +2,7 @@
 title: FDI and PIB per cápita
 summary: ""
 tags:
-- Deep Learning
+- Econometrics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -56,5 +56,7 @@ Para evaluar el impacto económico sobre el bienestar se utilizó el PIB per cá
 
 Modelo
 
-$y_{it}=\beta_{it}+_beta{it}T_{it}*fdi_{it}+'Z_{it}+\gamma_{i}+\epsilon_{it}$
+$$
+y_{it}=\beta_{it}+_beta{it}T_{it}*fdi_{it}+'Z_{it}+\gamma_{i}+\epsilon_{it}
+$$
 
