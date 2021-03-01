@@ -41,5 +41,19 @@ experience:
     location: Mexico
     date_start: '2018-08-01'
     date_end: '2019-12-01'
+    
+  - title: Regional Commercial Researcher
+    company: COFACE
+    company_url: ''
+    location: Mexico
+    date_start: '2016-08-01'
+    date_end: '2018-12-01'
+
+  - title: Jr Assitant
+    company: Cámara de Diputados
+    company_url: ''
+    location: Mexico
+    date_start: '2016-08-01'
+    date_end: '2015-12-01'
 #    description: Taught electronic engineering and researched semiconductor physics.
 ---
