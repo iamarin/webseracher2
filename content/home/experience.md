@@ -36,7 +36,7 @@ experience:
         * Deploying
         
   - title: Chief of Fiscal Instruments Analysis Department
-    company: Ministry of Finance
+    company: Ministry of Finance, Mexico City Government
     company_url: ''
     location: Mexico
     date_start: '2018-08-01'
@@ -46,14 +46,14 @@ experience:
     company: COFACE
     company_url: ''
     location: Mexico
-    date_start: '2016-08-01'
-    date_end: '2018-12-01'
+    date_start: '2017-08-01'
+    date_end: '2018-07-30'
 
-  - title: Jr Assitant
+  - title: Jr. Economist
     company: Cámara de Diputados
     company_url: ''
     location: Mexico
     date_start: '2016-08-01'
-    date_end: '2015-12-01'
+    date_end: '2017-12-01'
 #    description: Taught electronic engineering and researched semiconductor physics.
 ---
