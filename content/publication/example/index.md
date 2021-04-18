@@ -41,10 +41,10 @@ featured: true
 
 # Custom links (uncomment lines below)
  links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: Revista Finanzas y Política Económica
+   url: https://revfinypolecon.ucatolica.edu.co/article/view/3604/3667
 
-url_pdf: 'https://revfinypolecon.ucatolica.edu.co/article/view/3604/3667'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
