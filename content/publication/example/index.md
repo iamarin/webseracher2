@@ -26,8 +26,8 @@ publishDate: " "
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Revista Finanzas y Política Económica*
+publication_short: In *RFPE*
 
 abstract: The objective is to analyze public investment spending with sustainable external financing. The theoretical development considers the solvency and fiscal compliance conditions that allow determining a sustainable debt accumulation rule with a public investment spending policy. Empirically, a fiscal reaction function that validates the hypothesis of positive effects of the implementation of the rule on the primary balance and on the physical budgetary investment for the period 1990:I-2019:IV is analyzed. The results suggest discussing the relevance of modifying the debt and public spending policy for stimulating economic activity.
 
@@ -40,7 +40,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+ links:
 # - name: Custom Link
 #   url: http://example.org
 
